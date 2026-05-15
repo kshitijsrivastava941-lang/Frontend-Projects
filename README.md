@@ -1,2 +1,4 @@
 # Frontend-Projects
-Game website create using HTML, CSS, JavaScript.
+Website create using HTML, CSS, JavaScript.
+<br>
+Author - Kshitij Srivastava
